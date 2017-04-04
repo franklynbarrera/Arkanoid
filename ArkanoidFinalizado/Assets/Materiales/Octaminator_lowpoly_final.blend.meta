@@ -1,0 +1,191 @@
+fileFormatVersion: 2
+guid: fb7202950727f3e41aa7a1e39a48b045
+timeCreated: 1491007215
+licenseType: Free
+ModelImporter:
+  serializedVersion: 19
+  fileIDToRecycleName:
+    100000: arm_L
+    100002: arm_L_001
+    100004: arm_L_002
+    100006: arm_R
+    100008: arm_R_001
+    100010: arm_R_002
+    100012: core
+    100014: core_001
+    100016: core_002
+    100018: Cube_021
+    100020: gun
+    100022: //RootNode
+    100024: Plane
+    100026: Rig
+    100028: tentacle_L
+    100030: tentacle_L_001
+    100032: tentacle_L_002
+    100034: tentacle_L_003
+    100036: tentacle_L_004
+    100038: tentacle_L_005
+    100040: tentacle_L_006
+    100042: tentacle_L_007
+    100044: tentacle_L_008
+    100046: tentacle_L_009
+    100048: tentacle_L_010
+    100050: tentacle_L_011
+    100052: tentacle_L_012
+    100054: tentacle_L_013
+    100056: tentacle_L_014
+    100058: tentacle_L_015
+    100060: tentacle_L_016
+    100062: tentacle_L_017
+    100064: tentacle_L_018
+    100066: tentacle_L_019
+    100068: tentacle_R
+    100070: tentacle_R_001
+    100072: tentacle_R_002
+    100074: tentacle_R_003
+    100076: tentacle_R_004
+    100078: tentacle_R_005
+    100080: tentacle_R_006
+    100082: tentacle_R_007
+    100084: tentacle_R_008
+    100086: tentacle_R_009
+    100088: tentacle_R_010
+    100090: tentacle_R_011
+    100092: tentacle_R_012
+    100094: tentacle_R_013
+    100096: tentacle_R_014
+    100098: tentacle_R_015
+    100100: tentacle_R_016
+    100102: tentacle_R_017
+    100104: tentacle_R_018
+    100106: tentacle_R_019
+    400000: arm_L
+    400002: arm_L_001
+    400004: arm_L_002
+    400006: arm_R
+    400008: arm_R_001
+    400010: arm_R_002
+    400012: core
+    400014: core_001
+    400016: core_002
+    400018: Cube_021
+    400020: gun
+    400022: //RootNode
+    400024: Plane
+    400026: Rig
+    400028: tentacle_L
+    400030: tentacle_L_001
+    400032: tentacle_L_002
+    400034: tentacle_L_003
+    400036: tentacle_L_004
+    400038: tentacle_L_005
+    400040: tentacle_L_006
+    400042: tentacle_L_007
+    400044: tentacle_L_008
+    400046: tentacle_L_009
+    400048: tentacle_L_010
+    400050: tentacle_L_011
+    400052: tentacle_L_012
+    400054: tentacle_L_013
+    400056: tentacle_L_014
+    400058: tentacle_L_015
+    400060: tentacle_L_016
+    400062: tentacle_L_017
+    400064: tentacle_L_018
+    400066: tentacle_L_019
+    400068: tentacle_R
+    400070: tentacle_R_001
+    400072: tentacle_R_002
+    400074: tentacle_R_003
+    400076: tentacle_R_004
+    400078: tentacle_R_005
+    400080: tentacle_R_006
+    400082: tentacle_R_007
+    400084: tentacle_R_008
+    400086: tentacle_R_009
+    400088: tentacle_R_010
+    400090: tentacle_R_011
+    400092: tentacle_R_012
+    400094: tentacle_R_013
+    400096: tentacle_R_014
+    400098: tentacle_R_015
+    400100: tentacle_R_016
+    400102: tentacle_R_017
+    400104: tentacle_R_018
+    400106: tentacle_R_019
+    2300000: Plane
+    3300000: Plane
+    4300000: Plane
+    4300002: Cube_021
+    7400000: Default Take
+    7400002: tentacleWalk
+    9500000: //RootNode
+    13700000: Cube_021
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    rootMotionBoneRotation: {x: 0, y: 0, z: 0, w: 1}
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

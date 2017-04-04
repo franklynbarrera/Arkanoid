@@ -11,7 +11,7 @@ public class Giro : MonoBehaviour {
         if (pase == false)
         {
 
-            Invoke("Entrar", 3);
+            Invoke("Entrar", 1);
         }
 
         if (pase == true)

@@ -11,7 +11,7 @@ public class barra_movimiento : MonoBehaviour {
 	void Update () {
         if (pase == false)
         {
- Invoke("Entrar", 3);
+ Invoke("Entrar", 1);
 
         }
        

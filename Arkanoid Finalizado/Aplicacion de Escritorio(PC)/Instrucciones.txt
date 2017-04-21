@@ -1,3 +1,0 @@
-Sacar= Letra 'M'
-Movimientos= Flechas
-Ir al menu = tecla Esc
